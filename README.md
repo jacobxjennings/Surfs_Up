@@ -7,7 +7,7 @@ The goal with project is to analyze weather data for Hawaii to determine if a su
 
 - The following table shows the statistical parameters for the temperature in the months of June & December. 
 
-![June_and_December](insert link)
+![June_and_December](https://github.com/jacobxjennings/Surfs_Up/blob/main/June_December_Temps.PNG?raw=true)
 
 Based on this table:
 * December is, on average, 3.9 degrees colder than June.
